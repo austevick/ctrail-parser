@@ -6,8 +6,9 @@ go get -v github.com/austevick/ctrail-parser/
 ```
 
 ## Installing
-Download either the windows, linux or mac binary for your system. Binaries are all compiled as 64bit. If you need a 32 bit, you need to build the binary from source and specify the environment variable GOARCH=386
+Download either the windows, linux or mac binary for your system. Extract the zip file and put the binary somewhere on your system.
 
+You can see precompiled binaries for Linux, Mac and Windows from the [releases page](https://github.com/austevick/ctrail-parser/releases/)
 ## Building
 Assuming you already have go installed and on your path, you need to do the following:
 - setup a workspace.
